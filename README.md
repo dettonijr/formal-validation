@@ -1,2 +1,2 @@
 # formal-validation
-Personal test using automated provers for formal validation of stuff
+Personal repository with tests using automated provers for formal validation of stuff
